@@ -1,0 +1,16 @@
+15
+a|y|rutgers
+b|y|rutgers
+c|y|cornell
+d|y|rutgers
+e|y|penn state
+f|y|rutgers
+g|n
+h|y|rutgers
+i|y|penn state
+j|y|penn state
+k|y|rutgers
+l|y|penn state
+m|n
+n|y|ucla
+o|y|ucla
